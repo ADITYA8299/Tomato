@@ -32,5 +32,4 @@ Users can browse menus, add items to a cart, place orders, and pay securely via 
 
 ---
 
-## 📂 Project Structure  
 
